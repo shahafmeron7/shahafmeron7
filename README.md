@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shahaf Meron</h1>
 
-👀 I’m a passionate Web Developer with a strong focus on React and fullstack/frontend development.
+👀 I’m a passionate full stack developer.
 
 ❤️ I'm driven by the thrill of coding, constantly experimenting with frameworks and pushing boundaries.
 
